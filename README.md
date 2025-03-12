@@ -31,11 +31,7 @@
 🟨 Other          ░░░░░░░░░░░░░░░░░  20 mins         1.4%  
 ```
 
-## ☕ **Support My Work**
-If you like what I do, maybe consider **buying me a coffee** ☕ to fuel my next big idea!  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yourusername)
 
----
 
 ## 🛠 **Tech Stack & Tools**
 ![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,figma,git,vscode,vercel,nodejs,express,mongodb)
