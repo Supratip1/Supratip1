@@ -19,7 +19,7 @@
 🔹 **Tech Stack:** Next.js | TailwindCSS | AI Automation  
 🔹 **Features:** AI-powered text generation, post scheduling, real-time analytics  
 🔹 **Goal:** Help automate Website building  
-🔗 **[Follow Kalvya's Journey Here](https://yourkalvyalink.com)**  
+🔗 **[Follow Kalvya's Journey Here](https://kalvya-ai.netlify.app/)**  
 
 ---
 
