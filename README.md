@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Supratip Bhattacharya! 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&width=800&lines=Frontend+Web+Engineer+🚀+|+Indie+SaaS+Builder;Creating+Pixel-Perfect+UIs+🎨;Exploring+Next.js,+WebGL,+and+AI+Agents;Bug+Hunter+🛠️+|+Tech+Content+Creator;Building+Kalvya+to+Automate+Social+Media+📢" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&width=800&lines=Frontend+Web+Engineer+🚀+|+Indie+SaaS+Builder;Creating+Pixel-Perfect+UIs+🎨;Exploring+Next.js,+WebGL,+and+AI+Agents;Bug+Hunter+🛠️;Building+Kalvya+to+Automate+WebApplication+Creation+📢" alt="Typing SVG" />
 </p>
 
 ---
