@@ -1,51 +1,32 @@
-<h1 align="center">👋 Hey there, I'm Supratip Bhattacharya! 🚀</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&width=800&lines=Frontend+Web+Engineer+🚀+|+Indie+SaaS+Builder;Creating+Pixel-Perfect+UIs+🎨;Exploring+Next.js,+WebGL,+and+AI+Agents;Bug+Hunter+🛠️;Building+Kalvya+to+Automate+WebApplication+Creation+📢" alt="Typing SVG" />
-</p>
+# Supratip Bhattacharya
 
----
+Senior Full-Stack Engineer (frontend-leaning) — I build clean UIs, practical backends, and ship AI features that actually help users.  
+I like small, reviewable changes, fast pages, and boringly reliable systems.
 
-## 🎨 About Me
-- 🏗️ **Frontend Engineer** with a passion for crafting smooth & interactive web experiences.
-- 🔥 Currently **building Kalvya** – a tool that generates social media posts from long-form content.
-- 🚀 **Exploring WebGL & Next.js** to create high-performance, animation-rich applications.
-- 💡 **AI Enthusiast** – Integrating AI-powered agents into my workflows.
-- 💼 Open to **collaborations, freelance gigs, and consulting**.
+## Experience
+**Kimberly-Clark — Senior Full-Stack / AI Engineer**  
+- Frontend: React/Next.js + TypeScript, component design, performance profiling, a11y.  
+- Backend: Node/Express & Python (FastAPI), REST/GraphQL, Postgres/Redis, queues.  
+- AI: RAG/agents in production, prompt & response tracing, eval hooks, guardrails.  
+- Ops: Docker, CI/CD (GitHub Actions), basic monitoring/alerts.
 
----
+## Side Project
+**Prominence** — “SEO for LLM search” (side project)  
+- Featured in the **bolt.new worldwide hackathon**; **1,000+ signups**.  
+- Stack: React + Tailwind + Framer (FE), Node/Express + Puppeteer/Cheerio (BE), LLM providers.  
+- Live: https://prominence.live
 
-## ⚡ **Latest Project: Kalvya 🚀**
-**Kalvya** transforms prompts into **pixel perfect websites**.  
-🔹 **Tech Stack:** Next.js | TailwindCSS | AI Automation  
-🔹 **Features:** AI-powered text generation, post scheduling, real-time analytics  
-🔹 **Goal:** Help automate Website building  
-🔗 **[Follow Kalvya's Journey Here](https://kalvya-ai.netlify.app/)**  
+## How I work
+- Prefer clarity over cleverness.  
+- Write tests around behavior that matters.  
+- Measure before optimizing; document the why.
 
----
+## Links
+- Portfolio: https://www.supratip.tech  
+- GitHub: https://github.com/Supratip1  
+- LinkedIn: https://www.linkedin.com/in/supratip  
+- Email: supratipbhattacharya2@gmail.com
 
-## 📊 **This Week's Dev Time Breakdown:**
-### *WakaTime Stats* – How I spent my coding hours this week:
-```text
-🟦 TypeScript     ████████████████   15 hrs 30 mins   88.2%  
-🟩 JavaScript     ████████           4 hrs 05 mins   10.4%  
-🟨 Other          ░░░░░░░░░░░░░░░░░  20 mins         1.4%  
-```
-
-
-
-## 🛠 **Tech Stack & Tools**
-![Tech Stack](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,figma,git,vscode,vercel,nodejs,express,mongodb)
-
----
-
-## 📊 **Productivity Stats**
-### ✅ **My Todoist Progress**
-- 🏆 **8,004 Karma Points**  
-- ✔️ **673 Tasks Completed**  
-- 🔥 **Longest Streak: 10 Days**  
-
----
-
-## 📈 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supratip1&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Supratip1&theme=radical)
+## Off the clock
+- Cooking (I plate better than my CSS grids, most days).  
+- Cricket (middle-order optimist, death-over realist).
