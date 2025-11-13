@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Supratip Bhattacharya</h1>
 <p align="center">
-  Senior Full-Stack Engineer (frontend-leaning) — I build clean UIs, practical backends, and ship AI features that actually help users.
+  Full-Stack Engineer (frontend-leaning) — I care about clean UI, reliable APIs, and shipping AI features that feel invisible to the user.
 </p>
 
 <!-- Slim nav -->
@@ -15,57 +15,84 @@
 <!-- Subtle badges -->
 <p align="center">
   <img alt="focus" src="https://img.shields.io/badge/focus-Frontend%20%7C%20AI-111?labelColor=000&color=1f6feb">
-  <img alt="style" src="https://img.shields.io/badge/style-clarity%20%26%20accessibility-111?labelColor=000&color=238636">
+  <img alt="style" src="https://img.shields.io/badge/style-clarity%20%26%20DX-111?labelColor=000&color=238636">
   <img alt="location" src="https://img.shields.io/badge/remote-India-111?labelColor=000&color=8250df">
 </p>
 
 ---
 
-### Experience
-**Kimberly-Clark — Senior Full-Stack / AI Engineer**  
-- Frontend: React/Next.js + TypeScript, component design, perf profiling, a11y.  
-- Backend: Node/Express & Python (FastAPI), REST/GraphQL, Postgres/Redis, queues.  
-- AI: RAG/agent features, prompt/response tracing, eval hooks, guardrails.  
-- Ops: Docker, CI/CD (GitHub Actions), basic monitoring/alerts.
+## 🛠️ Experience
+### **Kimberly-Clark — Full-Stack / AI Engineer**
+Work split across frontend, backend, and practical AI systems.
+
+**Frontend**  
+- React/Next.js + TypeScript  
+- Component systems, performance profiling (Web Vitals, flamegraphs)  
+- Accessibility (WCAG) and design-system thinking  
+
+**Backend**  
+- FastAPI (Python), Node/Express  
+- REST/GraphQL services, background workers, queues  
+- Postgres, Redis, S3  
+
+**AI Work**  
+- RAG workflows, retrieval experimentation, reranking  
+- Agentic flows when they simplify UX  
+- Prompt tracing, eval hooks, basic guardrails  
+- Content cleanup + structured output generation  
+
+**Ops**  
+- Docker, GitHub Actions, versioned envs  
+- Basic monitoring + alerts  
+- “If we can’t debug it at 2 AM, we don’t ship it.”
 
 <details>
-  <summary><b>How I work (click)</b></summary>
+  <summary><b>How I work</b></summary>
 
-- Small, reviewable slices • strong naming • thoughtful DX  
-- Tests around behavior that matters • measure before optimizing  
-- Docs that future-me (or teammates) can follow in 60s
+- Small PRs, clear names, boring architecture  
+- Tests around behavior that matters  
+- Instrument everything: logs, traces, timings  
+- Documentation someone can grok in under 60s  
 </details>
 
 ---
 
-### Side Project
-**Prominence** — “SEO for LLM search” (side project)  
+## 🌐 Side Project — Prominence
+**Prominence** — AI visibility & GEO experiments (LLM Search Optimization)  
 <p>
   <a href="https://prominence.live">
     <img alt="Prominence live" src="https://img.shields.io/badge/live-prominence.live-111?labelColor=000&color=1f6feb">
   </a>
-  <img alt="bolt.new feature" src="https://img.shields.io/badge/featured-bolt.new%20hackathon-111?labelColor=000&color=fb8c00">
+  <img alt="bolt.new feature" src="https://img.shields.io/badge/featured-bolt.new-111?labelColor=000&color=fb8c00">
   <img alt="signups" src="https://img.shields.io/badge/signups-1k%2B-111?labelColor=000&color=238636">
 </p>
 
-- Stack: React + Tailwind + Framer (FE), Node/Express + Puppeteer/Cheerio (BE), LLM providers.
+**Stack:**  
+Frontend → React, Tailwind, Framer  
+Backend → Node/Express, Puppeteer, Cheerio  
+AI → LLM providers, retrieval + scoring experiments
 
 <details>
-  <summary><b>What I explored (click)</b></summary>
+  <summary><b>What I explored</b></summary>
 
-- Clean content extraction → chunking → metadata for better LLM ranking  
-- Simple eval loop to sanity-check changes before shipping
+- Content extraction → chunking → metadata scoring  
+- LLM-based visibility checks  
+- Simple GEO loops to compare model responses over time  
+- Mini eval harness: grounding, quality signals, consistency  
 </details>
 
 ---
 
-### Toolbox
-`React` `Next.js` `TypeScript` · `Node/Express` `FastAPI` · `Postgres` `Redis`  
-`Docker` `GitHub Actions` · Practical `LLM APIs` `RAG` `agents when it helps UX`
+## 🧰 Toolbox
+`React` · `Next.js` · `TypeScript`  
+`FastAPI` · `Node/Express` · `Postgres` · `Redis`  
+`Docker` · `GitHub Actions`  
+`RAG` · `LLM APIs` · `agents (when it improves UX)`
 
 ---
 
-### Off the clock
-Cooking (plating > CSS grids on lucky days) · Cricket (middle-order optimist, death-over realist)
+## ✨ Off the clock
+Cooking (sometimes prettier than my components) ·  
+Cricket (middle-order optimist, death-over realist)
 
 ---
