@@ -6,7 +6,7 @@
 
 <!-- Slim nav -->
 <p align="center">
-  <a href="https://www.supratip.tech">Portfolio</a> ·
+  <a href="https://supratip-dev.netlify.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/frontenddeveloper-supratip/">LinkedIn</a> ·
   <a href="https://github.com/Supratip1">GitHub</a> ·
   <a href="mailto:supratipbhattacharya2@gmail.com">Email</a>
