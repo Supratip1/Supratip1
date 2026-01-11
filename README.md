@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Supratip Bhattacharya</h1>
 <p align="center">
-  Full-Stack Engineer (frontend-leaning) — I care about clean UI, reliable APIs, and shipping AI features that feel invisible to the user.
+  Full-Stack AI Engineer — I care about clean UI, reliable APIs, and shipping AI features that feel invisible to the user.
 </p>
 
 <!-- Slim nav -->
